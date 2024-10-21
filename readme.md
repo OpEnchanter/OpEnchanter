@@ -1,3 +1,2 @@
 Hello! My name is OpEnchanter!
-I am experienced in python development, I have used the pygame library for game development. I have made some games using Unity and C# (See my Itch.io). Finally I have some experience creating websites, with HTML, CSS,
-JS, and NodeJS.
+I am experienced in Python, which I have used to make multiple games using the pygame library (Some of which remain unfinished), HTML CSS and Javascript which I have used to create websites, Java which I have used to make Minecraft serverside plugins, and with OnBot Java on an FTC (First Tech Challenge) team, and finally C# which I have used with the Unity game engine to create some video games (See my itch.io)
