@@ -1,3 +1,10 @@
-Hello! My name is Tristan!
+## 👋 Hello! I'm Tristan!
 
+### 📕 About
 I am experienced in Python, which I have used to make multiple games using the pygame library. I have also used HTML, CSS, and Javascript, which I have used to create multiple websites. In addition I am also experienced in Java, which I have used to make Minecraft server-side plugins, and scripts for an FTC (FIRST Tech Challenge) team that I am a part of. I have also worked with C# (in the Unity game engine) to create multiple video games (see my [itch.io](https://openchanter.itch.io)).
+
+### 📊 Stats
+<div style="display:flex;flex-direction:row">
+  <img style="height:200px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OpEnchanter&theme=gruvbox&hide_border=true&border_radius=12"/>
+  <img style="height:200px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpEnchanter&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true&border_radius=12" />
+</div>
