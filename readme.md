@@ -6,5 +6,5 @@ I am experienced in Python, which I have used to make multiple games using the p
 ### 📊 Stats
 <div style="display:flex;flex-direction:row">
   <img style="height:200px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OpEnchanter&theme=gruvbox&hide_border=true&border_radius=12"/>
-  <img style="height:200px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpEnchanter&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true&border_radius=12" />
+  <img style="height:200px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpEnchanter&layout=compact&langs_count=4&card_width=320&theme=gruvbox&hide_border=true&border_radius=12" />
 </div>
