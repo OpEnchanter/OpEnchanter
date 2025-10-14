@@ -7,5 +7,5 @@ I am experienced in Python, which I have used to make multiple games using the p
 <div style="display:flex;flex-direction:row">
   <img style="height:140px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OpEnchanter&theme=gruvbox&hide_border=true&border_radius=12&show_icons=true&hide_title=true"/>
   <img style="height:140px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpEnchanter&layout=compact&langs_count=6&card_width=320&theme=gruvbox&hide_border=true&border_radius=12" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=openchanter&theme=gruvbox&hide_border=true&border_radius=12&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=openchanter&theme=gruvbox&hide_border=true&border_radius=12&show_icons=true&langs_count=6">
 </div>
